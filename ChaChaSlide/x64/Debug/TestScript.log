@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(84,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(86,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(90,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(92,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(104,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(108,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(112,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(116,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(121,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\brady\source\repos\AirSim\TestScript\main.cpp(125,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  TestScript.vcxproj -> C:\Users\brady\source\repos\AirSim\x64\Debug\TestScript.exe
